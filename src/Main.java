@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Cat cat = new Cat();
-        cat.setName("Tom");
+        cat.setName("Lala");
         cat.run(201);
         cat.swim(10);
 
